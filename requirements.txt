@@ -1,0 +1,10 @@
+streamlit
+spacy
+pandas
+matplotlib
+wordcloud
+langdetect
+
+# Required spaCy models (install manually after setup)
+# python3 -m spacy download en_core_web_sm
+# python3 -m spacy download fr_core_news_sm
