@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Envs
+.venv/
+env/
+venv/
+
+# Package files
+*.egg-info/
+dist/
+build/
+
+# NLP/Streamlit temp files
+uploaded_text.txt
+*.csv
+.streamlit/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
